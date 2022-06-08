@@ -40,13 +40,13 @@ var app = new Vue({
       return this.requestedFill3 || '#CCCCC';
     },
     fill4() {
-      return this.requestedFill3 || '#CCCCC';
+      return this.requestedFill4 || '#CCCCC';
     },
     fill5() {
-      return this.requestedFill3 || '#CCCCC';
+      return this.requestedFill5 || '#CCCCC';
     },
     fill6() {
-      return this.requestedFill3 || '#CCCCC';
+      return this.requestedFill6 || '#CCCCC';
     }
   },
 
