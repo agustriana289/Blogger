@@ -21,10 +21,10 @@ var app = new Vue({
       slogans2: params.slogans2 || "BEST PREMIUM LOGOS",
       requestedFill: params.fill || "#444444",
       requestedFill2: params.fill2 || "#EEEEEE",
-      requestedFill3: params.fill3 || "#CCCCC",
-      requestedFill4: params.fill4 || "#CCCCC",
-      requestedFill5: params.fill5 || "#CCCCC",
-      requestedFill6: params.fill6 || "#CCCCC",
+      requestedFill3: params.fill3 || "#CCCCCC",
+      requestedFill4: params.fill4 || "#CCCCCC",
+      requestedFill5: params.fill5 || "#FFFFFF",
+      requestedFill6: params.fill6 || "#DDDDDD",
       resolution: 1024,
       useCustomEvent: true };
   },
@@ -37,16 +37,16 @@ var app = new Vue({
       return this.requestedFill2 || '#EEEEEE';
     },
     fill3() {
-      return this.requestedFill3 || '#CCCCC';
+      return this.requestedFill3 || '#CCCCCC';
     },
     fill4() {
-      return this.requestedFill4 || '#CCCCC';
+      return this.requestedFill4 || '#CCCCCC';
     },
     fill5() {
-      return this.requestedFill5 || '#CCCCC';
+      return this.requestedFill5 || '#FFFFFF';
     },
     fill6() {
-      return this.requestedFill6 || '#CCCCC';
+      return this.requestedFill6 || '#DDDDDD';
     }
   },
 
