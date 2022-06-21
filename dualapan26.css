@@ -37,11 +37,10 @@
 
 .testim .arrow {
     display: block;
-    position: fixed;
+    position: absolute;
     color: #eee;
     cursor: pointer;
     font-size: 2em;
-    top: 50%;
     -webkit-transform: translateY(-50%);
 		-ms-transform: translateY(-50%);
 		-moz-transform: translateY(-50%);
