@@ -38,7 +38,6 @@
 .testim .arrow {
     display: block;
     position: absolute;
-    color: #eee;
     cursor: pointer;
     font-size: 2em;
     -webkit-transform: translateY(-50%);
@@ -148,14 +147,12 @@
 }
 
 .testim .cont div h2 {
-    color: #ea830e;
     font-size: 1em;
     margin: 15px 0;
 }
 
 .testim .cont div p {
     font-size: 1.15em;
-    color: #eee;
     width: 80%;
     margin: auto;
 }
