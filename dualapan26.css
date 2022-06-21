@@ -37,7 +37,7 @@
 
 .testim .arrow {
     display: block;
-    position: absolute;
+    position: fixed;
     color: #eee;
     cursor: pointer;
     font-size: 2em;
