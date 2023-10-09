@@ -139,6 +139,8 @@ var arrLang = {
     "FEATURE": "Fitur",
     "HOW": "Bagaimana Cara Kerja Kami",
     "FAQ": "Faq",
+    "LANG": "Bahasa",
+    "LANG2": "Ganti Bahasa",
     "PRICELIST": "Daftar Harga",
     
     "TITLEH": "Mewujudkan Visi Anda Melalui Desain Logo",
