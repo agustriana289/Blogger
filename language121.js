@@ -5,6 +5,8 @@ var arrLang = {
     "FEATURE": "Feature",
     "HOW": "How We Work",
     "FAQ": "Faq",
+    "LANG": "Language",
+    "LANG2": "Change Language",
     "PRICELIST": "price list",
     
     "TITLEH": "Bringing Your Vision to Life Through Logo Design",
@@ -204,7 +206,7 @@ var arrLang = {
     "HRESP2": "Anda bisa mengandalkan kami, kami siap membantu Anda 24 jam",
     "HTIME": "Tepat Waktu",
     "HTIME2": "Kami menjamin desain Anda selesai tepat waktu, tanpa mengurangi kualitas dan kreativitas.",
-    "HBRAND": "Mulailah Membangun Branding Anda SekarangStart Building Your Branding Now",
+    "HBRAND": "Mulailah Membangun Branding Anda Sekarang",
     "HBRAND2": "Branding hanya dibuat sekali, namun keuntungannya lebih dari berkali-kali",
     "HPROJ": "Jumlah Proyek",
     "HCLIEN": "Klien yang Bahagia",
