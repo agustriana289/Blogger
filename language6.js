@@ -87,6 +87,9 @@ var arrLang = {
     "INFRM4": "Do we share your information with third parties?",
     "INFRM5": "How can you access or update your information?",
     "INFRM6": "Do we use cookies?",
+    "IDSU": "General Industry",
+    "IDST": "Technology Industry",
+    "TKOU": "Online Store / MSME",
     
     "HMES": "Order Now",
     "HLOG": "Your logo",
@@ -227,6 +230,14 @@ var arrLang = {
     "ORDR": "Order Now",
     "DESCRP": "Description",
     
+    "JUDULKLIEN": "Klien Terbaik Kami",
+    "DESCKLIEN1": "Di sini Anda dapat melihat klien terbaik kami yang berasal dari berbagai bidang dan sektor. Kami selalu berusaha memberikan layanan yang terbaik, tepat, dan memuaskan bagi mereka.",
+    "DESCKLIEN2": "Kami bangga memiliki klien terbaik yang telah memilih jasa desain logo kami.",
+    
+    "JUDULTSTMN": "Testimoni Pelanggan",
+    "DESCTSTMN1": "Kami bangga dengan hasil kerja kami dan kami senang melihat pelanggan kami puas dengan jasa desain logo kami.",
+    "DESCTSTMN2": "Apa kata pelanggan kami tentang jasa desain logo kami?",
+    
     "JUDULLOGOBRN": "Tarif Desain Logo Personal Brand",
     "DESCLOGOBRN": "Adalah layanan jasa desain logo profesional yang diperuntukan bagi personal branding yang ingin meningkatkan brandingnya",
     
@@ -235,6 +246,9 @@ var arrLang = {
     
     "JUDULLOGODGT": "Tarif Desain Logo Digital & StartUp",
     "DESCLOGODGT": "Kami menawarkan berbagai pilihan harga yang fleksibel dan terjangkau. Dapatkan juga tawaran spesial yang memberikan Anda nilai lebih.",
+    
+    "JUDULLOGOBLG": "Tarif Desain Logo Blog",
+    "DESCLOGOBLG": "Kami menawarkan berbagai pilihan harga yang fleksibel dan terjangkau. Dapatkan juga tawaran spesial yang memberikan Anda nilai lebih.",
     
     "100": "USD 7$",
     "150": "USD 10$",
@@ -342,6 +356,9 @@ var arrLang = {
     "INFRM4": "Apakah kami membagikan informasi Anda dengan pihak ketiga?",
     "INFRM5": "Bagaimana Anda dapat mengakses atau memperbarui informasi Anda?",
     "INFRM6": "Apakah kami menggunakan cookie?",
+    "IDSU": "Industri Umum",
+    "IDST": "Industri Teknologi",
+    "TKOU": "Toko Online / UMKM",
     
     "HMES": "Pesan Sekarang",
     "HLOG": "Logo Anda",
