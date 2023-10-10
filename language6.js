@@ -10,6 +10,7 @@ var arrLang = {
     "PRICELIST": "price list",
     "WA1": "Click on one of our representatives below to chat on WhatsApp",
     "WA2": "Need help? Let's chat with us!",
+    "WA3": "Hello! What can I do for you?",
     
     "TITLEH": "Bringing Your Vision to Life Through Logo Design",
     "DESCH": "Enhance your brand identity with a professional logo design. We are here to improve your business identity with a quality logo that suits your business needs.",
@@ -148,6 +149,7 @@ var arrLang = {
     "PRICELIST": "Daftar Harga",
     "WA1": "Klik salah satu Admin kami di bawah ini untuk mengobrol di WhatsApp",
     "WA2": "Butuh bantuan? Mari ngobrol dengan kami!",
+    "WA3": "Halo! Apa ada yang bisa saya bantu?",
     
     "TITLEH": "Mewujudkan Visi Anda Melalui Desain Logo",
     "DESCH": "Tingkatkan identitas merek Anda dengan desain logo profesional. Kami hadir untuk meningkatkan identitas bisnis Anda dengan logo berkualitas dan sesuai kebutuhan bisnis anda.",
