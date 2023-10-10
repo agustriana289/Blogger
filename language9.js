@@ -17,7 +17,7 @@ var arrLang = {
     
     "OPTION": "Logo Options",
     "FILOSOP": "Logo Philosophy",
-    "LOGOS": "Derived Logo",
+    "LOGOD": "Derived Logo",
     "MAJOR": "Major Revision",
     "MINOR": "Minor Revisions",
     "UNLI": "Unlimited",
@@ -288,7 +288,7 @@ var arrLang = {
     
     "OPTION": "Opsi Logo",
     "FILOSOP": "Filosopi Logo",
-    "LOGOS": "Logo Turunan",
+    "LOGOD": "Logo Turunan",
     "MAJOR": "Revisi Besar",
     "MINOR": "Revisi Kecil",
     "UNLI": "Tidak Terbatas",
