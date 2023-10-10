@@ -8,6 +8,7 @@ var arrLang = {
     "LANG": "Language",
     "LANG2": "Change Language",
     "PRICELIST": "price list",
+    "WA1": "Click on one of our representatives below to chat on WhatsApp",
     
     "TITLEH": "Bringing Your Vision to Life Through Logo Design",
     "DESCH": "Enhance your brand identity with a professional logo design. We are here to improve your business identity with a quality logo that suits your business needs.",
@@ -144,6 +145,7 @@ var arrLang = {
     "LANG": "Bahasa",
     "LANG2": "Ganti Bahasa",
     "PRICELIST": "Daftar Harga",
+    "WA1": "Klik salah satu Admin kami di bawah ini untuk mengobrol di WhatsApp",
     
     "TITLEH": "Mewujudkan Visi Anda Melalui Desain Logo",
     "DESCH": "Tingkatkan identitas merek Anda dengan desain logo profesional. Kami hadir untuk meningkatkan identitas bisnis Anda dengan logo berkualitas dan sesuai kebutuhan bisnis anda.",
