@@ -94,6 +94,7 @@ var arrLang = {
     
     "HMES": "Order Now",
     "HLOG": "Your logo",
+    "ATCR": "Add to Cart",
     "HBUY": "Or Just Buy It",
     "HLOGS": "Ready to Use Logo",
     "WHY": "Why",
@@ -368,6 +369,7 @@ var arrLang = {
     
     "HMES": "Pesan Sekarang",
     "HLOG": "Logo Anda",
+    "ATCR": "Tambah Ke Keranjang",
     "HBUY": "Atau Beli Saja",
     "HLOGS": "Logo Siap Pakai",
     "WHY": "Mengapa",
