@@ -555,7 +555,7 @@ var arrLang = {
 
 
  $(document).ready(function () {
-      var lang = localStorage.getItem('lang') || 'en-gb';
+      var lang = localStorage.getItem('lang') || 'zh-tw';
       $(".lang").each(function (index, element) {
         $(this).text(arrLang[lang][$(this).attr("key")]);
       });
