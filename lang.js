@@ -278,6 +278,7 @@ var arrLang = {
     "4850": "USD 350$",
     "8850": "USD 550$",
     "FREE": "USD 0$ (FREE)"
+    "SOLD": "SOLD"
   },
 
   "zh-tw": {
@@ -558,6 +559,7 @@ var arrLang = {
     "4850": "Rp 4.850.000",
     "8850": "Rp 8.550.000",
     "FREE": "Rp 0 (GRATIS)"
+    "SOLD": "TERJUAL"
   }
     };
 
